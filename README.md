@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning Opencv and Neural Networks
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sk05.emails@gmail.comm
+- 📫 How to reach me .....
 
 <!---
 Sudhakaran-DataScientist/Sudhakaran-DataScientist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
